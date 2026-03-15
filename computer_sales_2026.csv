@@ -1,0 +1,11 @@
+customer id;Product ID;Product Type;Sale Price;Profit;Lead;Month;Year;Day
+30;M01-F0024;Desktop;479.99;143.39;Flyer 2;2;2026;5
+31;GA401IV;Laptop;1349.99;180.34;Flyer 1;2;2026;12
+32;GT13-0024;Desktop;1249.99;230.89;Flyer 2;1;2026;19
+33;I3593;Laptop;399.99;72.09;Flyer 2;1;2026;3
+34;15M-ED;Laptop;699.99;98.09;Email;1;2026;25
+35;MY2J2LL;Tablet;999.99;146.69;Website;2;2026;17
+36;81TC00;Laptop;649.99;122.34;Website;1;2026;30
+37;M01-F0024;Desktop;;143.39;Flyer 4;1;2026;8
+38;GA401IV;Laptop;1349.99;'180.34';Website;2;2026;21
+39;I3593;Laptop;399.99;72.09;Website;1;2026;14
